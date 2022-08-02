@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687281908664",
+    "project_id": "contact-vimigo",
+    "storage_bucket": "contact-vimigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687281908664:android:5147143487b91e41057d4d",
+        "android_client_info": {
+          "package_name": "com.example.firstflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687281908664-6on2nop81nlblmp02lsm2ouc0o38iv7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mmR__ubpNskkmMx-Yqvj3P2ZTH6KRpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687281908664-6on2nop81nlblmp02lsm2ouc0o38iv7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
